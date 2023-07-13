@@ -11,3 +11,5 @@ The final DNN model can be exported and used with Vosk-API (https://github.com/a
 https://ravn.fo contains the datasets and models for ASR.
 
 The scripts for datapreperation will be added soon.
+
+This work belongs to Egil Hofgaard (egil.hofgaard@gmail.com).
